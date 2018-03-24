@@ -1,0 +1,677 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>Vaibhav Desai</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body>
+
+		<!-- Header -->
+			<section id="header">
+				<header>
+					<span class="image avatar"><img src="images/avatar.jpg" alt="" /></span>
+					<h1 id="logo"><a href="#">Vaibhav Desai</a></h1>
+					<p>Graduate Student at USC.<br />
+					Computer Science</p>
+				</header>
+				<nav id="nav">
+					<ul>
+						<li><a href="#one" class="active">About</a></li>
+						<li><a href="#two">Skills</a></li>
+						<li><a href="#three">Projects</a></li>
+						<li><a href="https://vaibhavdesai.github.io/blob/blogs/chrome_extension_part1.html">Blog</a></li>
+						<li><a href="#four">Timeline</a></li>
+						<li><a href="#five">Contact</a></li>
+					</ul>
+				</nav>
+				<footer>
+					<ul class="icons">
+						<li><a href="https://twitter.com/desaivaibhav94" class="icon fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+						<li><a href="https://www.facebook.com/vaibhav.jdesai" class="icon fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
+						<li><a href="https://www.instagram.com/desaivaibhav94/" class="icon fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
+						<li><a href="https://github.com/VaibhavDesai" class="icon fa-github" target="_blank"><span class="label">Github</span></a></li>
+						<li><a href="mailto:vaibhavdesai@icloud.com" class="icon fa-envelope" target="_blank"><span class="label">Email</span></a></li>
+					</ul>
+				</footer>
+			</section>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- One -->
+							<section id="one"  >
+								<div class="container">
+									<p>I am a graduate student in Computer Science at University of Southern California (USC). I have 3 years of industry experience working as software developer. I primarily work on the backend technologies. From past couple of years, I have been exploring different facets of this field, working on different technologies, solving some tough real-world problems. This has given me the ability to think out of the box solutions. I love to collaborate/work with people who are on working on interesting problems. </p>
+								</div>
+								<div align="center">
+									<div class="3u 6u(medium) 12u$(xsmall)" >
+										<ul class="actions vertical" >
+											<li><a href="https://drive.google.com/file/d/0B7BeVNv7xoesVUJWRjZDTS1hZjA/view?usp=sharing" target="_blank" class="button special fit">Resume</a></li>
+										</ul>
+									</div>
+								</div>
+							</section>
+
+						<!-- Two -->
+							<section id="two">
+								<div class="container">
+									<h3>Skills</h3>
+									<p>I have worked on various technologies and programming languages.</p>
+									<ul class="feature-icons">
+										<li class="fa-code">Python, MongoDB, Java, Couch Base, SQL, JSON, HTML, Neo4j, PHP.</li>
+										<li class="fa-cubes">Django, Spring boot, Android, Slim, RESTful APIs.</li>
+										<li class="fa-bolt">Agile Methodologies, Jenkins, CICD, GIT.</li>
+										<li class="fa-coffee">Drink coffee</li>
+
+									</ul>
+								</div>
+							</section>
+
+						<!-- Three -->
+							<section id="three">
+								<div class="container">
+									<h3>Projects</h3>
+									<p>Throught out my undergraduate and graduate studies I have been developing a various projects ranging from AI to Research projects in NLP using various technologies.</p>
+									<div class="features">
+
+										<article>
+											<a href="https://chrome.google.com/webstore/detail/addtospotifyplaylist/ohjlpkmkgcbpbkfeaeboamadohmghdof" class="image" target="_blank"><img src="images/ddToSpotifyPlaylist512x512.png" alt="" /></a>
+											<div class="inner">
+												<h4>Add to Spotify Playlist</h4>
+												<p>This was an overnight hack to solve my problem of importing songs from youtube to spotifiy playlist for convinient access during travels. This is chrome extension that runs on the YouTube.com pages to autodetect track titles and gives an option to add to your spotify playlist. The chrome extension is live on the chrome store. It uses Spotify and Chrome APIs to get and store the content.</p>
+											</div>
+										</article>
+
+
+
+										<article>
+											<a href="https://vaibhavdesai.github.io/ClueGenerator/" class="image" target="_blank"><img src="images/Clue.jpg" alt="" /></a>
+											<div class="inner">
+												<h4>Clue Generator</h4>
+												<p>This is an ongoing research project that I am actively involved in. The aim of this research is to provide automated clues to target words and understand what makes up a good clue. This is a word guessing game between a human and machine. I am using various NLP tools to extract various features from the automated clues / the human clues and compare them.</p>
+											</div>
+										</article>
+										<article>
+											<a href="https://vaibhavdesai.github.io/Yembrace/" class="image" target="_blank"><img src="images/yembrace_image.png" alt="" /></a>
+											<div class="inner">
+												<h4>Yembrace</h4>
+												<p>This was the project that I worked on in my undergraduate and was funded by Innohabit Technologies. This product was launched in one of the shopping malls in Bangalore, India. I was the architect of this product and developed major part of the web application and Android application.</p>
+											</div>
+										</article>
+										<article>
+											<a href="https://vaibhavdesai.github.io/The-Fruit-Rage/" class="image" target="_blank"><img src="images/fruit_rage.jpg" alt="" /></a>
+											<div class="inner">
+												<h4>The Fruit Rage</h4>
+												<p>This is a AI agent that can play this game against a human or another agent. The Fruit Rage is a two player game in which each player tries to maximize his/her share from a batch of fruits randomly placed in a box.</p>
+											</div>
+										</article>
+
+										<article>
+											<a href="https://vaibhavdesai.github.io/ZOOKEEPER-AI/" class="image" target="_blank"><img src="images/zookeeper.png" alt="" /></a>
+											<div class="inner">
+												<h4>ZOOKEEPER AI</h4>
+												<p>This is an AI agent who's objective is to place baby reptile in a reptile house. I used various search techniques such as BFS, DFS and Simulated Annealing to accomplish this task.</p>
+											</div>
+										</article>
+
+										<article>
+											<a href="http://vaibhavdesai.github.io/ProgramE/" class="image" target="_blank"><img src="images/programE.png" alt="" /></a>
+											<div class="inner">
+												<h4>Program E</h4>
+												<p>This was an undergraduate Graphics project that I was working in my 2nd of college. This is a menu based program editor written in OpenGL and C.</p>
+											</div>
+										</article>
+
+										<article>
+											<a href="https://github.com/VaibhavDesai" class="image" target="_blank"><img src="images/web-crawler.jpg" alt="" /></a>
+											<div class="inner">
+												<h4>Crawlers</h4>
+												<p>During a period of time I have written plenty of crawlers for facebook and other e commerce websites. </p>
+											</div>
+										</article>
+									</div>
+								</div>
+							</section>
+
+						<!-- Four -->
+							<section id="four">
+								<div class="container">
+									<h3>Timeline</h3>
+									<div class="timeline">
+										<div class="container left">
+											<div class="content">
+												<h2>2017</h2>
+												<header>
+													<h5>Volunteer Researcher at ICT Natural Dialog Group.</h5>
+													<ul>
+													<li>Working with Prof. David Traum and Phd scholar Eli Pincus on improving the clue quality of automated clue generator for give target words. The work involves analysing millions of machine as well as human clues and study their characteristics.</li>
+													</ul>
+												</header>
+												<hr>
+												<header>
+													<h5>Started Graduate School at USC.</h5>
+													<ul>
+														<li>Joined Masters in Computer Science at USC during the fall of 2017. My concentration during my masters is going to be towards Data Science Subjects such as AI, NLP, Machine Learning etc. I will be graduation in Spring of 2019.</li>
+													</ul>
+												</header>
+												<hr>
+												<header>
+													<h5>Left TESCO.</h5>
+													<ul>
+														<li>I worked in the supply chain division of TESCO as a part of Stock Services team. I was awarded the best new joinee award for my work on Reservation API.</li>
+														<li>Developed and deployed a key feature, i.e Reservation API for online ordering on tesco.com. It implements an intelligent item reservation process which allows the system to block certain products for a period of time during the normal selling and high selling season. The response time of the API was approx 100 ms with a high TPS rates. Implemented a map reduce solution to improve the response time of the Stock aggregate API by 50%.</li>
+														<li>Developed Automated Test suites for faster Integration and Regression testing.</li>
+														<li>Redesigned the logging system to improve the quality of logs and capture more critical data for monitoring purposes.</li>
+														<li>Revised several Splunk quires to forecast possible system failures. Also developed active monitoring dashboards and alerting features for bug detection using Splunk.</li>
+													</ul>
+												</header>
+												<hr>
+												<header>
+													<h5>Published ACM research paper on "Multisource Keyword Extraction and Graph Construction for Privacy Preservation."</h5>
+													<ul>
+														<li>This paper is the continuation of my previous research paper (SWCTE: about Semantic Weighted Context Tagging Engine for Privacy Preserving Data Mining) which was published in IEEE ICDSE 2016. .</li>
+														<li>The architecture proposed in this paper is an improvement over SWCTE. The paper gives a concrete implementation of the proposed algorithm for Context Graph Threshold detection. With iterative pruning of the context graph, we are able to find context with varying degree of confidence level. This paper also discusses the vector making of the sensitive data generated from the graph.</li>
+													</ul>
+												</header>
+											</div>
+										</div>
+										<div class="container right">
+											<div class="content">
+												<h2>2016</h2>
+												<header>
+													<h5>Published IEEE research paper on "SWCTE: Semantic Weighted Context Tagging Engine for Privacy Preserving Data Mining"</h5>
+													<ul>
+														<li>This reserach was conducted under the guidance of Dr.P Deep Shenoy, Head of Department of Computer Science at UVCE.</li>
+														<li>In this paper, we put forward a technique to provide privacy preservation of sensitive data based on the semantic context. Our approach encapsulates various techniques of Text-processing, keyphrase extraction, Cooccurrence
+															analysis, ontology construction and query analysis.</li>
+														<li> Our experimental results indicate that our solution is effective in marking the private data using the semantic context of the input text.</li>
+														<li> The main goal of our work is to construct a module which acts as an intermediate step in pre-processing for data mining while preserving the privacy.</li>
+													</ul>
+												</header>
+												<hr>
+												<header>
+													<h5>Published a survey research paper on "A brief Survey on Privacy Preserving Data Mining Techniques"</h5>
+													<ul>
+														<li>In this paper, we analyze the privacy preserving data mining solutions and privacy leakage in them through indirect means. The main objective of this paper is to identify the open areas of research on privacy preserving
+															data mining.</li>
+													</ul>
+												</header>
+												<hr>
+												<header>
+													<h5>Joined TESCO as a new grad</h5>
+													<ul>
+														<li>Designed and developed an order fulfillment service model in the supply chain as part of the boot camp project. As part of the project, I implemented a modified Knapsack algorithm to increase order picking and Optimized order delivery algorithm using Gurobiœôòùs simplex method.</li>
+														<li>This project was well received and much appreciated by the CTO of TESCO and Heads of Engineering in TESCO. </li>
+													</ul>
+												</header>
+												<hr>
+												<header>
+													<h5>Graduated College</h5>
+													<ul>
+														<li>I graduated Bachelors in Computer Science from University Visvesvaraya College of Engineering (UVCE), within top 2% of the computer science department.</li>
+													</ul>
+												</header>
+
+											</div>
+										</div>
+										<div class="container left">
+											<div class="content">
+												<h2>2015</h2>
+												<header>
+													<h5>Software Developer Intern at Innohabit Technologies</h5>
+													<ul>
+														<li>I turned semi-entrepreneurial with prototyping and releasing of a new platform œôòüCloseyœôòý for personalized advertising campaigns. We had tied up with local malls and shops for the promotion of their products and offers to the users, based on their proximity to the shop. This platform used Beacon Technology for personalized marking. The platform allowed the consumers (shops) to sign up with our service and we would configure the beacons in the right locations and upload their catalog on our website. The platform offered features like sending customized promotional offers to a particular user/users groups based on their previous buying patterns, current proximity etc. It also included features like clearance campaign and automated campaigns. The product dashboard also gave insights like foot count, time spent in the store etc.</li>
+														<li>I engineered the platform from the ground up by conceptualizing the database model for the application. Implementing the key features on the application dashboard using PHP. I independently developed and supported the Android application for the platform which comprised of beacon stack, location stack, and wifi stack to improve the accuracy of the user.</li>
+														<li> Worked on Woises.com, a key product in the portfolio of Innohabit Technologies. I implemented a key feature, JIRA Synchronization which allows seamless integration with JIRA project management tool and easy migration to Woises.</li>
+													</ul>
+												</header>
+
+											</div>
+										</div>
+										<div class="container right">
+											<div class="content">
+												<h2>2014</h2>
+												<header>
+													<h5>Software Developer Intern at Teritree Technologies</h5>
+													<ul>
+														<li> Independently implemented an automated plug and play mailing engine (like Survey Monkey) to send out promotional campaigns. It was integrated with AWS SES, SendGrid, NetCore as mailing agents. The mail server encompassed generating mail list, creating HTML content, adding trackers, delivering the mail through agents and reporting the open/click events. It delivered high volumes of emails at high scales.</li>
+														<li>I implemented open and click email tracking feature using AWS SDK to see if we were reaching out to the right audience. </li>
+														<li> Wrote social media crawlers to understand the outreach of our promotions through facebook, twitter likes, comments, and shares. </li>
+														<li> Wrote crawlers for websites like Yepme, Lowes to get the catalog from their websites.</li>
+														<li> Wrote a Facebook application to establish similarity score between profiles using Facebook API and graph DB (Neo4j). </li>
+													</ul>
+												</header>
+												<hr>
+												<header>
+												<h5>Certificate of Appreciation for the contributions towards Open Source Development in UVCE</h5>
+												</header>
+												<header>
+												<h5>Microsoft Student Partner(MSP)</h5>
+												</header>
+
+											</div>
+										</div>
+										<div class="container left">
+											<div class="content">
+												<h2>2013</h2>
+												<header>
+													<h5>Qualified for ACM ICPC Amritapuri 2013 onsite</h5>
+												</header>
+												<header>
+													<h5>Winner of SAP Lumira University Challenge</h5>
+												</header>
+												<header>
+													<h5>Winner of NCode-2</h5>
+												</header>
+												<header>
+													<h5>Winner of Summit 2013</h5>
+												</header>
+											</div>
+										</div>
+										<div class="container right">
+											<div class="content">
+												<h2>2012</h2>
+												<header>
+													<h5>Excellent Performance in Academic Year 2011-2012</h5>
+												</header>
+												<header>
+												<h5>Proficiency Certificate in Maths</h5>
+												</header>
+												<header>
+													<h5>Winner of Code Space at Insprion</h5>
+												</header>
+											</div>
+										</div>
+									</div>
+								</div>
+							</section>
+
+						<!-- Five -->
+						<section id="five">
+							<div class="container">
+								<h3>Contact Me</h3>
+								<p>Contact me by writing a email to <b>vaibhavdeasi@icloud.com</b> and I will get back to you as soon as possible.</p>
+
+							</div>
+						</section>
+
+
+						<!-- Five -->
+						<!--
+							<section id="six">
+								<div class="container">
+									<h3>Elements</h3>
+
+									<section>
+										<h4>Text</h4>
+										<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
+										This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
+										This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>. Finally, <a href="#">this is a link</a>.</p>
+										<hr />
+										<header>
+											<h4>Heading with a Subtitle</h4>
+											<p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>
+										</header>
+										<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+										<header>
+											<h5>Heading with a Subtitle</h5>
+											<p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>
+										</header>
+										<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+										<hr />
+										<h2>Heading Level 2</h2>
+										<h3>Heading Level 3</h3>
+										<h4>Heading Level 4</h4>
+										<h5>Heading Level 5</h5>
+										<h6>Heading Level 6</h6>
+										<hr />
+										<h5>Blockquote</h5>
+										<blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus lorem ipsum dolor sit amet nullam adipiscing eu felis.</blockquote>
+										<h5>Preformatted</h5>
+										<pre><code>i = 0;
+
+	while (!deck.isInOrder()) {
+	    print 'Iteration ' + i;
+	    deck.shuffle();
+	    i++;
+	}
+
+	print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
+									</section>
+
+									<section>
+										<h4>Lists</h4>
+										<div class="row">
+											<div class="6u 12u(xsmall)">
+												<h5>Unordered</h5>
+												<ul>
+													<li>Dolor pulvinar etiam magna etiam.</li>
+													<li>Sagittis adipiscing lorem eleifend.</li>
+													<li>Felis enim feugiat dolore viverra.</li>
+												</ul>
+												<h5>Alternate</h5>
+												<ul class="alt">
+													<li>Dolor pulvinar etiam magna etiam.</li>
+													<li>Sagittis adipiscing lorem eleifend.</li>
+													<li>Felis enim feugiat dolore viverra.</li>
+												</ul>
+											</div>
+											<div class="6u 12u(xsmall)">
+												<h5>Ordered</h5>
+												<ol>
+													<li>Dolor pulvinar etiam magna etiam.</li>
+													<li>Etiam vel felis at lorem sed viverra.</li>
+													<li>Felis enim feugiat dolore viverra.</li>
+													<li>Dolor pulvinar etiam magna etiam.</li>
+													<li>Etiam vel felis at lorem sed viverra.</li>
+													<li>Felis enim feugiat dolore viverra.</li>
+												</ol>
+												<h5>Icons</h5>
+												<ul class="icons">
+													<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+													<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+													<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+													<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
+													<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
+													<li><a href="#" class="icon fa-tumblr"><span class="label">Tumblr</span></a></li>
+												</ul>
+											</div>
+										</div>
+										<h5>Actions</h5>
+										<ul class="actions">
+											<li><a href="#" class="button special">Default</a></li>
+											<li><a href="#" class="button">Default</a></li>
+											<li><a href="#" class="button alt">Default</a></li>
+										</ul>
+										<ul class="actions small">
+											<li><a href="#" class="button special small">Small</a></li>
+											<li><a href="#" class="button small">Small</a></li>
+											<li><a href="#" class="button alt small">Small</a></li>
+										</ul>
+										<div class="row">
+											<div class="3u 6u(medium) 12u$(xsmall)">
+												<ul class="actions vertical">
+													<li><a href="#" class="button special">Default</a></li>
+													<li><a href="#" class="button">Default</a></li>
+													<li><a href="#" class="button alt">Default</a></li>
+												</ul>
+											</div>
+											<div class="3u 6u$(medium) 12u$(xsmall)">
+												<ul class="actions vertical small">
+													<li><a href="#" class="button special small">Small</a></li>
+													<li><a href="#" class="button small">Small</a></li>
+													<li><a href="#" class="button alt small">Small</a></li>
+												</ul>
+											</div>
+											<div class="3u 6u(medium) 12u$(xsmall)">
+												<ul class="actions vertical">
+													<li><a href="#" class="button special fit">Default</a></li>
+													<li><a href="#" class="button fit">Default</a></li>
+													<li><a href="#" class="button alt fit">Default</a></li>
+												</ul>
+											</div>
+											<div class="3u 6u$(medium) 12u$(xsmall)">
+												<ul class="actions vertical small">
+													<li><a href="#" class="button special small fit">Small</a></li>
+													<li><a href="#" class="button small fit">Small</a></li>
+													<li><a href="#" class="button alt small fit">Small</a></li>
+												</ul>
+											</div>
+										</div>
+									</section>
+
+									<section>
+										<h4>Table</h4>
+										<h5>Default</h5>
+										<div class="table-wrapper">
+											<table>
+												<thead>
+													<tr>
+														<th>Name</th>
+														<th>Description</th>
+														<th>Price</th>
+													</tr>
+												</thead>
+												<tbody>
+													<tr>
+														<td>Item One</td>
+														<td>Ante turpis integer aliquet porttitor.</td>
+														<td>29.99</td>
+													</tr>
+													<tr>
+														<td>Item Two</td>
+														<td>Vis ac commodo adipiscing arcu aliquet.</td>
+														<td>19.99</td>
+													</tr>
+													<tr>
+														<td>Item Three</td>
+														<td> Morbi faucibus arcu accumsan lorem.</td>
+														<td>29.99</td>
+													</tr>
+													<tr>
+														<td>Item Four</td>
+														<td>Vitae integer tempus condimentum.</td>
+														<td>19.99</td>
+													</tr>
+													<tr>
+														<td>Item Five</td>
+														<td>Ante turpis integer aliquet porttitor.</td>
+														<td>29.99</td>
+													</tr>
+												</tbody>
+												<tfoot>
+													<tr>
+														<td colspan="2"></td>
+														<td>100.00</td>
+													</tr>
+												</tfoot>
+											</table>
+										</div>
+
+										<h5>Alternate</h5>
+										<div class="table-wrapper">
+											<table class="alt">
+												<thead>
+													<tr>
+														<th>Name</th>
+														<th>Description</th>
+														<th>Price</th>
+													</tr>
+												</thead>
+												<tbody>
+													<tr>
+														<td>Item One</td>
+														<td>Ante turpis integer aliquet porttitor.</td>
+														<td>29.99</td>
+													</tr>
+													<tr>
+														<td>Item Two</td>
+														<td>Vis ac commodo adipiscing arcu aliquet.</td>
+														<td>19.99</td>
+													</tr>
+													<tr>
+														<td>Item Three</td>
+														<td> Morbi faucibus arcu accumsan lorem.</td>
+														<td>29.99</td>
+													</tr>
+													<tr>
+														<td>Item Four</td>
+														<td>Vitae integer tempus condimentum.</td>
+														<td>19.99</td>
+													</tr>
+													<tr>
+														<td>Item Five</td>
+														<td>Ante turpis integer aliquet porttitor.</td>
+														<td>29.99</td>
+													</tr>
+												</tbody>
+												<tfoot>
+													<tr>
+														<td colspan="2"></td>
+														<td>100.00</td>
+													</tr>
+												</tfoot>
+											</table>
+										</div>
+									</section>
+
+									<section>
+										<h4>Buttons</h4>
+										<ul class="actions">
+											<li><a href="#" class="button special">Special</a></li>
+											<li><a href="#" class="button">Default</a></li>
+											<li><a href="#" class="button alt">Alternate</a></li>
+										</ul>
+										<ul class="actions">
+											<li><a href="#" class="button special big">Big</a></li>
+											<li><a href="#" class="button">Default</a></li>
+											<li><a href="#" class="button alt small">Small</a></li>
+										</ul>
+										<ul class="actions fit">
+											<li><a href="#" class="button special fit">Fit</a></li>
+											<li><a href="#" class="button fit">Fit</a></li>
+											<li><a href="#" class="button alt fit">Fit</a></li>
+										</ul>
+										<ul class="actions fit small">
+											<li><a href="#" class="button special fit small">Fit + Small</a></li>
+											<li><a href="#" class="button fit small">Fit + Small</a></li>
+											<li><a href="#" class="button alt fit small">Fit + Small</a></li>
+										</ul>
+										<ul class="actions">
+											<li><a href="#" class="button special icon fa-download">Icon</a></li>
+											<li><a href="#" class="button icon fa-download">Icon</a></li>
+											<li><a href="#" class="button alt icon fa-check">Icon</a></li>
+										</ul>
+										<ul class="actions">
+											<li><span class="button special disabled">Special</span></li>
+											<li><span class="button disabled">Default</span></li>
+											<li><span class="button alt disabled">Alternate</span></li>
+										</ul>
+									</section>
+
+									<section>
+										<h4>Form</h4>
+										<form method="post" action="#">
+											<div class="row uniform">
+												<div class="6u 12u(xsmall)">
+													<input type="text" name="demo-name" id="demo-name" value="" placeholder="Name" />
+												</div>
+												<div class="6u 12u(xsmall)">
+													<input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" />
+												</div>
+											</div>
+											<div class="row uniform">
+												<div class="12u">
+													<div class="select-wrapper">
+														<select name="demo-category" id="demo-category">
+															<option value="">- Category -</option>
+															<option value="1">Manufacturing</option>
+															<option value="1">Shipping</option>
+															<option value="1">Administration</option>
+															<option value="1">Human Resources</option>
+														</select>
+													</div>
+												</div>
+											</div>
+											<div class="row uniform">
+												<div class="4u 12u(medium)">
+													<input type="radio" id="demo-priority-low" name="demo-priority" checked>
+													<label for="demo-priority-low">Low Priority</label>
+												</div>
+												<div class="4u 12u(medium)">
+													<input type="radio" id="demo-priority-normal" name="demo-priority">
+													<label for="demo-priority-normal">Normal Priority</label>
+												</div>
+												<div class="4u 12u(medium)">
+													<input type="radio" id="demo-priority-high" name="demo-priority">
+													<label for="demo-priority-high">High Priority</label>
+												</div>
+											</div>
+											<div class="row uniform">
+												<div class="6u 12u(medium)">
+													<input type="checkbox" id="demo-copy" name="demo-copy">
+													<label for="demo-copy">Email me a copy of this message</label>
+												</div>
+												<div class="6u 12u(medium)">
+													<input type="checkbox" id="demo-human" name="demo-human" checked>
+													<label for="demo-human">I am a human and not a robot</label>
+												</div>
+											</div>
+											<div class="row uniform">
+												<div class="12u">
+													<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
+												</div>
+											</div>
+											<div class="row uniform">
+												<div class="12u">
+													<ul class="actions">
+														<li><input type="submit" value="Send Message" /></li>
+														<li><input type="reset" value="Reset" class="alt" /></li>
+													</ul>
+												</div>
+											</div>
+										</form>
+									</section>
+
+									<section>
+										<h4>Image</h4>
+										<h5>Fit</h5>
+										<span class="image fit"><img src="images/banner.jpg" alt="" /></span>
+										<div class="box alt">
+											<div class="row 50% uniform">
+												<div class="4u"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
+												<div class="4u"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
+												<div class="4u"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
+											</div>
+											<div class="row 50% uniform">
+												<div class="4u"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
+												<div class="4u"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
+												<div class="4u"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
+											</div>
+											<div class="row 50% uniform">
+												<div class="4u"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
+												<div class="4u"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
+												<div class="4u"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
+											</div>
+										</div>
+										<h5>Left &amp; Right</h5>
+										<p><span class="image left"><img src="images/avatar.jpg" alt="" /></span>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.</p>
+										<p><span class="image right"><img src="images/avatar.jpg" alt="" /></span>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.</p>
+									</section>
+
+								</div>
+							</section>
+
+					-->
+					</div>
+
+				<!-- Footer -->
+					<section id="footer">
+						<div class="container">
+							<ul class="copyright">
+								<li>&copy; Vaibhav Desai. All rights reserved.</li>
+							</ul>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollzer.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

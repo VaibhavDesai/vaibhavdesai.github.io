@@ -24,7 +24,7 @@
 						<li><a href="#one" class="active">About</a></li>
 						<li><a href="#two">Skills</a></li>
 						<li><a href="#three">Projects</a></li>
-						<li><a href="">Blog</a></li>
+						<li><a href="https://vaibhavdesai.github.io/blob/blogs/chrome_extension_part1.html">Blog</a></li>
 						<li><a href="#four">Timeline</a></li>
 						<li><a href="#five">Contact</a></li>
 					</ul>
@@ -208,7 +208,7 @@
 												<header>
 													<h5>Joined TESCO as a new grad</h5>
 													<ul>
-														<li>Designed and developed an order fulfillment service model in the supply chain as part of the boot camp project. As part of the project, I implemented a modified Knapsack algorithm to increase order picking and Optimized order delivery algorithm using Gurobi‚Äôs simplex method.</li>
+														<li>Designed and developed an order fulfillment service model in the supply chain as part of the boot camp project. As part of the project, I implemented a modified Knapsack algorithm to increase order picking and Optimized order delivery algorithm using GurobiúÙÚ˘s simplex method.</li>
 														<li>This project was well received and much appreciated by the CTO of TESCO and Heads of Engineering in TESCO. </li>
 													</ul>
 												</header>
@@ -228,7 +228,7 @@
 												<header>
 													<h5>Software Developer Intern at Innohabit Technologies</h5>
 													<ul>
-														<li>I turned semi-entrepreneurial with prototyping and releasing of a new platform ‚ÄúClosey‚Äù for personalized advertising campaigns. We had tied up with local malls and shops for the promotion of their products and offers to the users, based on their proximity to the shop. This platform used Beacon Technology for personalized marking. The platform allowed the consumers (shops) to sign up with our service and we would configure the beacons in the right locations and upload their catalog on our website. The platform offered features like sending customized promotional offers to a particular user/users groups based on their previous buying patterns, current proximity etc. It also included features like clearance campaign and automated campaigns. The product dashboard also gave insights like foot count, time spent in the store etc.</li>
+														<li>I turned semi-entrepreneurial with prototyping and releasing of a new platform úÙÚ¸CloseyúÙÚ˝ for personalized advertising campaigns. We had tied up with local malls and shops for the promotion of their products and offers to the users, based on their proximity to the shop. This platform used Beacon Technology for personalized marking. The platform allowed the consumers (shops) to sign up with our service and we would configure the beacons in the right locations and upload their catalog on our website. The platform offered features like sending customized promotional offers to a particular user/users groups based on their previous buying patterns, current proximity etc. It also included features like clearance campaign and automated campaigns. The product dashboard also gave insights like foot count, time spent in the store etc.</li>
 														<li>I engineered the platform from the ground up by conceptualizing the database model for the application. Implementing the key features on the application dashboard using PHP. I independently developed and supported the Android application for the platform which comprised of beacon stack, location stack, and wifi stack to improve the accuracy of the user.</li>
 														<li> Worked on Woises.com, a key product in the portfolio of Innohabit Technologies. I implemented a key feature, JIRA Synchronization which allows seamless integration with JIRA project management tool and easy migration to Woises.</li>
 													</ul>
